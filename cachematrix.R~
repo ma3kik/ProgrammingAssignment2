@@ -1,4 +1,4 @@
-## These functions implement a special data type which enables users
+## These functions implements a special data type which enables users
 ## to cache the inverse matrix of a given matrix.
 
 ## The makeCacheMatrix function outputs a matrix which can hold 
